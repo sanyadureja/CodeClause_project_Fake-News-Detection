@@ -11,3 +11,9 @@
 • Achieved accurate classification of news as fake or real with around:
 1. 98.51% accuracy with Logistic Regression.
 2. 99.78% accuracy with DecisionTreeClassifier.
+
+# Kaggle Dataset
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv
