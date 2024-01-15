@@ -1,6 +1,6 @@
 # CodeClause_project_Fake-News-Detection
 
-• Developed a Logistic Regression-based and DecisionTreeClassifier-based Fake News Detector using Machine Learning techniques.
+• Developed a Logistic Regression-Based and DecisionTreeClassifier-Based Fake News Detector using Machine Learning techniques.
 
 • Performed Data Cleaning and Data Pre-Processing steps such as Stopwords removal, Stemming of words etc.
 
